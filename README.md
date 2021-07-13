@@ -1,7 +1,7 @@
 # notes-app
 
-You can use it by command lines like:
-node app.js add --title="Studying" --body="German"
-node app.js remove --title="Studying"
-node app.js list
-node app.js read --title="Studying"
+<h1>You can use it by command lines like:</h1>
+<p>node app.js add --title="Studying" --body="German"</p>
+<p>node app.js remove --title="Studying"</p>
+<p>node app.js list</p>
+<p>node app.js read --title="Studying"</p>
